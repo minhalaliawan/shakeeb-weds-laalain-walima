@@ -1,4 +1,4 @@
-# Walima — Ahmed Shakeeb &amp; Dr. Lalain Fatima
+# Walima — Ahmed Shakeeb &amp; Dr. Laalain Fatima
 
 A standalone, Walima-only invitation site. Single static file, no build step,
 no dependencies, no backend. Open `index.html` in a browser and it works.
